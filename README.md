@@ -300,6 +300,7 @@ Publish the website in the given URL.
 ## OUTPUT:
 ![alt text](<Screenshot 2025-10-07 222431.png>)  
 ![alt text](<Screenshot 2025-10-07 222515.png>)
+<img width="1272" height="187" alt="Screenshot 2025-10-07 223826" src="https://github.com/user-attachments/assets/792c9b35-19a6-42b8-bfc1-3db1d012414a" />
 ![alt text](<Screenshot 2025-10-07 222554.png>)
 ![alt text](<Screenshot 2025-10-07 222617.png>)
 ![alt text](<Screenshot 2025-10-07 222657.png>)
